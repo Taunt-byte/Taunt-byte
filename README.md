@@ -4,10 +4,6 @@
 + Estou estudando bastante o javaScript e o Flutter e tenho gostado bastante de desenvolver aplicações para o mobile
 
 # Minhas Redes Socias.
-## Twitter
-
-+ https://twitter.com/lucas_neves164
-
 ## Linkedin
 
 + https://www.linkedin.com/in/lucas-neves-da-silva-4058211a2/
