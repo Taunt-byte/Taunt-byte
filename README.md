@@ -1,7 +1,7 @@
 # Quem sou eu ?
 
 + Me chamo Lucas Neves da Silva 
-+ Estou estudante bastante atualmente javaScript e o Flutter e tenho gostado bastante de desenvolver aplicações para o mobile
++ Estou estudando bastante o javaScript e o Flutter e tenho gostado bastante de desenvolver aplicações para o mobile
 
 # Minhas Redes Socias.
 
