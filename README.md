@@ -15,11 +15,11 @@
 + https://www.linkedin.com/in/lucas-neves-da-silva-4058211a2/
 
 
-## Formação academica.
+## Formação academica
 
 + Graduação em Engenharia da Computação (2019-2024)
 
-## Tecnologias que mais utilizo.
+## Tecnologias que mais utilizo
 
 + C#
 + JavaScript
