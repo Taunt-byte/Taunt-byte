@@ -1,2 +1,10 @@
 # Lucas Neves 
-Ola a todos eu me chamo Lucas Neves sou estudante de Engenharia da Computação
+
++ sou estudante de Engenharia da Computação
+
+## tecnologias que mais uso
+
++ C#
++ JavaScript
++ flutter
++ css
