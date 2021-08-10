@@ -15,7 +15,6 @@
 
 ## Tecnologias que mais utilizo
 
-+ C#
 + JavaScript
-+ flutter
-+ css
++ Flutter
++ Css
