@@ -8,7 +8,7 @@
 
 📚 Atualmente estou estudando bastante Flutter e JavaScript.
 
-📤 2021 Goals: Minha meta para esse ano e fazer um app de musica e arrumar um emprego na area de TI.
+📤 2021 Goals: Minha meta para esse ano e aprender mais sobre o desenvolvimento Mobile.
 ## Saiba mais sobre mim
 <div align="center">
   <a href="https://github.com/Taunt-byte">
