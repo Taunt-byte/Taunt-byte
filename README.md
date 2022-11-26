@@ -1,6 +1,6 @@
 # Seja Bem Vindo
 
-## Eu Sou Lucas Neves!
+## Olá , Eu sou Lucas Neves!
 
 💻  Sou estudante de Engenharia da Computação pela UNISAL!
 
