@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Ol, Sou Lucas Neves da Silva atualmente faço Engenharia da computação pela UNISAL de Lorena.
+Olá, Sou Lucas Neves da Silva atualmente faço Engenharia da computação pela UNISAL de Lorena.
 
 👩‍💻 Trabalho atualmente no desenvolvimento de projetos pessoais
 
