@@ -1,4 +1,11 @@
-# Seja Bem Vindo
+[![Meu Banner](https://i.gifer.com/xK.gif)](https://i.gifer.com/xK.gif)
+
+
+<h1 align="Center"> Olá sou Lucas Neves 🔥!
+</h1>
+
+<p align="Center">Simplesmente o Dev mais Legal que você vai conhecer!
+</p>
 
 ## 🚀 Sobre mim
 
@@ -8,20 +15,64 @@ Olá, Sou Lucas Neves da Silva atualmente faço Engenharia da computação pela 
 
 🧠 Estou aprendendo sobre o desenvolvimento de sistemas embarcados
 
-👯‍♀️ Procuro colaborar em projetos open source. 
+<h3 align="Right">⭐ Minhas Redes Sociais</h3>
 
-## 🔗 Links
+<p align="Right">
+  <a href="https://lucasneves-53829.medium.com/">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-neves-da-silva-4058211a2/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://substack.com/@lucasnevesdasilva?utm_source=user-menu">
+  <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">
+  </a>
+</p>
 
+## 📚 Linguagens e Ferramentas que ja usei
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+</p>
+
+## 📊 Github Status
 <div align="center">
-
-  [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://lucasneves-53829.medium.com/)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-neves-da-silva-4058211a2/)
-  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lucas_neves164)[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucas.neves.301718/) 
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taunt-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taunt-byte&layout=compact&langs_count=7&theme=dracula"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Saiba mais sobre mim
+## Tech Stack:
 
-<div align="center">
-  <a href="https://github.com/Taunt-byte"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taunt-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taunt-byte&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+##
+<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" />
