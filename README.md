@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" height="100"/>
+<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" />
 
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
