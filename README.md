@@ -1,16 +1,11 @@
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
 
-<table align="center" style="border-collapse: collapse">
-  <tr>
-    <td>
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQG3CzY74x2U-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693960468900?e=1760572800&v=beta&t=vD08_fJsDj7y7WCAOExNeR6l9KakO_tyJMPkzmENEC8" width="250" style="border-radius: 10px;" />
-    </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <p style="margin: 0; font-size: 18px;">Simplesmente o Dev mais Legal que você vai conhecer!</p>
-    </td>
-  </tr>
-</table>
+<div align="Center">
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQG3CzY74x2U-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693960468900?e=1760572800&v=beta&t=vD08_fJsDj7y7WCAOExNeR6l9KakO_tyJMPkzmENEC8" width="150" height="150" style="border-radius: 30px;" />
+<p style="margin: 0; font-size: 18px;">Simplesmente o Dev mais Legal que você vai conhecer!</p>
+</div>
+
 
 
 ## 🚀 Sobre mim
