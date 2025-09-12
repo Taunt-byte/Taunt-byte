@@ -1,7 +1,7 @@
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse">
   <tr>
     <td>
       <img src="https://media.licdn.com/dms/image/v2/D4D03AQG3CzY74x2U-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1693960468900?e=1760572800&v=beta&t=vD08_fJsDj7y7WCAOExNeR6l9KakO_tyJMPkzmENEC8" width="250" style="border-radius: 10px;" />
