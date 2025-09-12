@@ -1,5 +1,4 @@
-[![Meu Banner](https://i.gifer.com/xK.gif)](https://i.gifer.com/xK.gif)
-
+<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" height="100"/>
 
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
@@ -75,4 +74,5 @@ Olá, Sou Lucas Neves da Silva atualmente faço Engenharia da computação pela 
 </p>
 
 ##
-<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" />
+
+[![Meu Banner](https://i.gifer.com/xK.gif)](https://i.gifer.com/xK.gif)
