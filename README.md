@@ -1,18 +1,19 @@
-<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" />
-
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
 
 <p align="Center">Simplesmente o Dev mais Legal que você vai conhecer!
 </p>
 
+<img src="https://i.pinimg.com/1200x/37/c6/8f/37c68ff0d0b664704990c337f9cddf4b.jpg" />
+
+
 ## 🚀 Sobre mim
 
 Olá, Sou Lucas Neves da Silva atualmente faço Engenharia da computação pela UNISAL de Lorena.
 
-👩‍💻 Trabalho atualmente no desenvolvimento de projetos pessoais
+👩‍💻 Trabalho atualmente no desenvolvimento de projetos pessoais.
 
-🧠 Estou aprendendo sobre o desenvolvimento de sistemas embarcados
+🧠 Estou aprendendo sobre o desenvolvimento de sistemas embarcados.
 
 <h3 align="Right">⭐ Minhas Redes Sociais</h3>
 
