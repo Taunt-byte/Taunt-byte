@@ -1,5 +1,3 @@
-[![GIF](https://i.gifer.com/xK.gif)](https://i.gifer.com/xK.gif)
-
 <h1 align="Center"> Olá sou Lucas Neves 🔥!
 </h1>
 
