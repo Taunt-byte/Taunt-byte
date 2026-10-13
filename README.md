@@ -1,31 +1,31 @@
-# 👋 Olá, eu sou Lucas Neves!
+# 👋 Hi, I'm Lucas Neves!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Software+Development+Enthusiast;Always+Learning+and+Building+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  💻 Transformando café em código e ideias em projetos!
+  💻 Turning coffee into code and ideas into projects!
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Olá! Sou **Lucas Neves da Silva**, estudante de **Engenharia da Computação no UNISAL, em Lorena, SP**.
+Hello! I'm **Lucas Neves da Silva**, a **Computer Engineering student at UNISAL, Lorena, Brazil**.
 
-Tenho interesse em desenvolvimento de software, tecnologia, jogos e sistemas embarcados. Utilizo projetos pessoais para praticar programação, explorar novas ferramentas e desenvolver minhas habilidades técnicas.
+I'm interested in software development, technology, game development, and embedded systems. I use personal projects to practice programming, explore new tools, and continuously improve my technical skills.
 
-- 🎓 Estudante de Engenharia da Computação.
-- 💻 Desenvolvendo projetos pessoais para praticar programação.
-- 🧠 Estudando desenvolvimento de software e sistemas embarcados.
-- 🎮 Interessado em desenvolvimento de jogos e tecnologias relacionadas.
-- 📚 Compartilhando ideias, aprendizados e experiências sobre tecnologia.
-- 🎯 Sempre buscando aprender, evoluir e construir projetos melhores.
+- 🎓 Computer Engineering student at UNISAL.
+- 💻 Building personal projects to improve my programming skills.
+- 🧠 Learning about software development and embedded systems.
+- 🎮 Interested in game development and related technologies.
+- 📚 Sharing ideas, knowledge, and experiences about technology.
+- 🎯 Always learning, improving, and building better projects.
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.youtube.com/@lucasneves67" target="_blank">
@@ -44,9 +44,9 @@ Tenho interesse em desenvolvimento de software, tecnologia, jogos e sistemas emb
 
 ---
 
-## 🛠️ Linguagens e tecnologias
+## 🛠️ Languages and Technologies
 
-Estas são algumas das linguagens, ferramentas e tecnologias com as quais já tive contato em meus estudos e projetos.
+Here are some of the programming languages, tools, and technologies I have worked with during my studies and personal projects.
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -75,29 +75,29 @@ Estas são algumas das linguagens, ferramentas e tecnologias com as quais já ti
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taunt-byte&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taunt-byte&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taunt-byte&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-## 📌 O que você encontrará por aqui?
+## 📌 What You'll Find Here
 
-- 💻 Projetos de programação e desenvolvimento web.
-- 🧮 Aplicações para praticar lógica de programação e algoritmos.
-- 🎮 Experimentos e projetos relacionados a jogos.
-- ⚙️ Estudos e projetos envolvendo tecnologia e sistemas embarcados.
-- 📚 Repositórios criados para aprender, experimentar e compartilhar conhecimento.
+- 💻 Programming and web development projects.
+- 🧮 Applications focused on programming logic and algorithms.
+- 🎮 Experiments and projects related to game development.
+- ⚙️ Learning projects involving technology and embedded systems.
+- 📚 Repositories created to learn, experiment, and share knowledge.
 
 ---
 
 <p align="center">
-  💡 <i>"A melhor maneira de aprender a programar é construindo algo."</i>
+  💡 <i>"The best way to learn programming is by building something."</i>
 </p>
 
 <p align="center">
-  Obrigado pela visita! Explore meus repositórios e acompanhe minha jornada na tecnologia. 🚀
+  Thanks for visiting my profile! Feel free to explore my repositories and follow my journey in technology. 🚀
 </p>
